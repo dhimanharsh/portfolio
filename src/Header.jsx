@@ -12,6 +12,7 @@ export default function Header() {
             <li>Skills</li>
             <li>Experience</li>
             <li>Contact</li>
+            
           </ul>
         </nav>
       </header>
