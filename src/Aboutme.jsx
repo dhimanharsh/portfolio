@@ -14,9 +14,9 @@ export default function Aboutme() {
 
 {/* image div */}
 <div className='flex border-7 w-[90%] mx-auto'>
-<div className=' border-4 w-[25%]'>image</div>
+<div className=' border-4 w-[48%]'>image</div>
 {/* anotehr eduction and experince div.. */}
-<div>
+<div className='w-[48%]'>
 <div className=' border-4  w-[25%]'>experience</div>
 <div className=' border-4  w-[25%]'>education</div>
 <p className=' border-4  w-[25%]'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut vero delectus voluptatum quisquam nihil ratione, repudiandae soluta nobis porro fugit fugiat deleniti ea eos velit optio qui rem incidunt provident?</p>
